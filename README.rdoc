@@ -1,7 +1,7 @@
-== README
+== README about linkMeUp
 
 Playing around with some Meetup API and LinkedIn API.
 The idea? Sign in with your Meetup and LinkedIn Account, check if a particular event has people in your network also letting you know the visual composition of the attendees (what companies they are from, which degree of connections).
 
-Demo site: www.
+Demo site: http://linkedmeup.herokuapp.com/
 <tt>rake doc:app</tt>.
