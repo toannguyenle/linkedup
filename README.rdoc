@@ -1,28 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Playing around with some Meetup API and LinkedIn API.
+The idea? Sign in with your Meetup and LinkedIn Account, check if a particular event has people in your network also letting you know the visual composition of the attendees (what companies they are from, which degree of connections).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
+Demo site: www.
 <tt>rake doc:app</tt>.
